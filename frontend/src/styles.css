@@ -1,0 +1,12 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  h2, h4 {
+    font-weight: 500;
+  }
+  
+  button {
+    margin-top: 10px;
+  }
+  

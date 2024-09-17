@@ -1,0 +1,14 @@
+/* Custom Navbar Styling */
+.navbar {
+  background-color: #343a40 !important; /* Custom background color */
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  padding: 0.5rem 1rem;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
