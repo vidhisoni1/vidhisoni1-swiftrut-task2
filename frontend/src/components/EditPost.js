@@ -31,7 +31,7 @@ const EditPost = () => {
       <h2>Edit Post</h2>
       <form onSubmit={handleSubmit}>
         <div className="form-group">
-          <label htmlFor="title">Post Title</label>
+          <label htmlFor="title"> Title</label>
           <input
             type="text"
             className="form-control"

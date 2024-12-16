@@ -16,8 +16,8 @@ const CreatePost = () => {
 
   return (
     <div className="container mt-5">
-      <h2>Create a New Post</h2>
-      <form onSubmit={handleSubmit}>
+      <h2>Create Blog</h2>
+      <form onSubmit={handleSubmit} className='col-6 '>
         <div className="form-group">
           <label htmlFor="title">Post Title</label>
           <input
